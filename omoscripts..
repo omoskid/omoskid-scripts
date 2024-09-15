@@ -1,6 +1,0 @@
-task.spawn(function()
-      wait(5)
-      if game.CoreGui:FindFirstChild("Death_Gui") then
-         game.Players.LocalPlayer:kick("if u see this message its cuz some nigga skidded my shit and i deleted it)
-      end
-   end)
